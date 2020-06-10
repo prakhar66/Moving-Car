@@ -8,4 +8,5 @@ In this program you all need to maintain co-ordinates of all oval and arc and so
 we use thread.sleep(); method for slow movement of an item.
 I use repaint();
 for continue looping
-if you wish to once then ignore it.
+if you wish to do it once then ignore it.
+
